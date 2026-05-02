@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: 575126609591.dkr.ecr.ap-south-1.amazonaws.com/shipquick-frontend:dev
+        image: 575126609591.dkr.ecr.ap-south-1.amazonaws.com/shipquick-frontend:dev-17
         ports:
         - containerPort: 80
